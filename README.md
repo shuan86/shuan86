@@ -44,8 +44,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
+typecript   40 hrs 16 mins   ████████████████████░░░░░   74.23 % 
 JavaScript   8 hrs 16 mins   █████████████▓░░░░░░░░░░░   54.23 % 
-JSX          6 hrs 58 mins   ███████████▒░░░░░░░░░░░░░   45.76 % 
+TSX          6 hrs 58 mins   ███████████▒░░░░░░░░░░░░░   45.76 % 
 ```
 <!--END_SECTION:waka-->
 
