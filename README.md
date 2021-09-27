@@ -17,11 +17,11 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **languages and tools:**  
 <code><img height="20" src="https://github.com/shuan86/shuan86/blob/main/image/ts.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://github.com/shuan86/shuan86/blob/main/image/js.jpg"></code>
+<code><img height="20" src="https://github.com/shuan86/shuan86/blob/main/image/react.png"></code>
+<code><img height="20" src="https://github.com/shuan86/shuan86/blob/main/image/node.png"></code>
+<code><img height="20" src="https://github.com/shuan86/shuan86/blob/main/image/mysql.jpg"></code>
+<code><img height="20" src="https://github.com/shuan86/shuan86/blob/main/image/git.png"></code>
 <code><img height="20" src="https://github.com/shuan86/shuan86/blob/main/image/C%23.png"></code>
 <code><img height="20" src="https://github.com/shuan86/shuan86/blob/main/image/NET_Core.png"></code>
 
